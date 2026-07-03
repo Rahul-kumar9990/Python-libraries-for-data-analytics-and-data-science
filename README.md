@@ -134,14 +134,19 @@ Python has a number of libraries, like :
 |--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|
 
 
-### Liked my Contributions:question:[Follow Me](https://github.com/mrankitgupta/):point_right: [Nominate Me for GitHub Stars](https://stars.github.com/nominate/) :star: :sparkles:
+
 
 ## For any queries/doubts 🔗 👇 
 
-### [Ankit Gupta](https://bio.link/AnkitGupta)
-<p align="left"> <a href="https://twitter.com/MrAnkitGupta_/" target="blank"><img src="https://img.shields.io/twitter/follow/MrAnkitGupta_?logo=twitter&style=for-the-badge" alt="MrAnkitGupta_" /></a> </p>
+- **Email**:
+- **LinkedIn**:
 
-<a href="https://www.linkedin.com/in/mrankitgupta" target="blank"><img align="center" src="https://img.shields.io/badge/-MrAnkitGupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mrankitgupta/" alt="MrAnkitGupta" height="20" width="100" /></a>
-<a href="https://www.instagram.com/MrAnkitGupta_" target="blank"><img align="center" src="https://img.shields.io/badge/-@MrAnkitGupta_-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/MrAnkitGupta_" alt="MrAnkitGupta_" height="20" width="110" /></a>
-<a href="https://bio.link/AnkitGupta" target="blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&link=https://bio.link/AnkitGupta" alt="AnkitGupta" height="20" width="90" /></a>
-<a href="https://github.com/mrankitgupta/" target="blank"><img align="center" src="https://img.shields.io/github/followers/mrankitgupta?label=Follow&style=social&link=https://github.com/mrankitgupta/" alt="MrAnkitGupta" height="20" width="90" /></a>
+
+## **My Social Media Hanldes:**
+
+<a href="https://www.linkedin.com/in/honestreply9990" target="_blank"><img align="center" src="https://img.shields.io/badge/-RahulKumar-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="RahulKumar" height="20" width="110"/></a>
+<a href="https://x.com/honestreply9990" target="_blank"><img align="center" src="https://img.shields.io/badge/-RahulKumar-000000?style=flat-square&labelColor=000000&logo=x&logoColor=white" alt="RahulKumar" height="20" width="110"/></a>
+<a href="https://www.instagram.com/honestreply9990" target="blank"><img align="center" src="https://img.shields.io/badge/-RahulKumar-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/honestreply9990//" alt="RahulKumar" height="20" width="110"/></a>
+
+
+## ✨ **Feel free to explore my repositories and connect with me!**
