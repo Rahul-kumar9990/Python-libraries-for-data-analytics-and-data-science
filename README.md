@@ -41,6 +41,13 @@ Making use of the Python Standard Library is not enough for many developers beca
 
 ## Featured projects:question: 👨‍💻 🛰️
 
+<code>[RetailPulse-Customer Analytics & Relational SQL Pipeline](https://github.com/Rahul-kumar9990/RetailPulse-Customer-Analytics-Relational-SQL-Pipeline)</code>  
+
+<code>[MarketLens-Consumer Spending and Engagement Dashboard](https://github.com/Rahul-kumar9990/MarketLens-Consumer-Spending-and-Engagement-Dashboard)</code> 
+
+<code>[GeoInsights-Regional Sales Analytics and BI Dashboard](https://github.com/Rahul-kumar9990/GeoInsights-Regional-Sales-Analytics-and-BI-Dashboard)</code>   
+
+<code>[Dining Demand & Revenue Optimizer](https://github.com/Rahul-kumar9990/Dining-Demand-Revenue-Optimizer)</code> 
 
  
 ## Python Libraries for Data Analysis and Data Science <a href="https://github.com/mrankitgupta/PythonLessons" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="25"/> </a>
