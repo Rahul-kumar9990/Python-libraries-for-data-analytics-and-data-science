@@ -16,7 +16,7 @@ Making use of the Python Standard Library is not enough for many developers beca
 
 * <a href="https://github.com/Rahul-kumar9990/Python-Roadmap">Python</a> <a href="https://github.com/Rahul-kumar9990/Python-Roadmap" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="20"/> </a>
 
-* <a href="https://github.com/Rahul-kumar9990/Statistics-for-data-analytics-using-pythonp">Statistcs</a> <a href="https://github.com/Rahul-kumar9990/Statistics-for-data-analytics-using-python" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Statistics/Statistics-original.svg" alt="Statistics" width="25" height="20"/> </a>
+* <a href="https://github.com/Rahul-kumar9990/Statistics-for-data-analytics-using-pythonp">Statistcs</a> <a href="https://github.com/Rahul-kumar9990/Statistics-for-data-analytics-using-python" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/statistics/statistics-original.svg" alt="Statistics" width="25" height="20"/> </a>
 
 
 ## Python Libraries for Data Analysis and Data Science <a href="https://github.com/Rahul-kumar9990/Python-Roadmap" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="25"/> </a>
