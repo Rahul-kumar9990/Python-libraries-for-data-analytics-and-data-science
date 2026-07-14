@@ -55,7 +55,6 @@ Python has a number of libraries, like :
 
 - [Data Analytics with AI Tools]() - by Codings Blocks
 
- 
 
 
 ### For Coding Practice:
