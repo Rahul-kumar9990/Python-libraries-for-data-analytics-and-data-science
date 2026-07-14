@@ -36,9 +36,7 @@ Python has a number of libraries, like :
 |4| Seaborn | [Youtube](https://youtu.be/-jTD74eEy2I?si=-2Qs3v36oPNmxDH0) |
 |5| Scikit Learn | :white_check_mark:  |
 
-<h2 align="left">Certifications 📜 🎓 </h2>
 
-- [Data Analysis with Python]() - by IBM
  
 ### YouTube Channels:
 
