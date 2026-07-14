@@ -16,6 +16,9 @@ Making use of the Python Standard Library is not enough for many developers beca
 
 * <a href="https://github.com/Rahul-kumar9990/Python-Roadmap">Python</a> <a href="https://github.com/Rahul-kumar9990/Python-Roadmap" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="20"/> </a>
 
+* <a href="https://github.com/Rahul-kumar9990/Statistics-for-data-analytics-using-pythonp">Python</a> <a href="https://github.com/Rahul-kumar9990/Statistics-for-data-analytics-using-python" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Statistics/Statistics-original.svg" alt="Statistics" width="25" height="20"/> </a>
+
+
 ## Python Libraries for Data Analysis and Data Science <a href="https://github.com/Rahul-kumar9990/Python-Roadmap" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="25"/> </a>
 
 Python has become a staple in data science, allowing data analysts and other professionals to use the language to conduct complex statistical calculations, create data visualizations, build machine learning algorithms, manipulate and analyze data, and complete other data-related tasks more quickly and efficiently.
