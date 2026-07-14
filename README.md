@@ -18,7 +18,7 @@ Making use of the Python Standard Library is not enough for many developers beca
 
 * <a href="https://github.com/Rahul-kumar9990/Python-Roadmap">Python</a> <a href="https://github.com/Rahul-kumar9990/Python-Roadmap" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="20"/> </a>
 
-* <a href="https://github.com/mrankitgupta/Spotify-Data-Analysis-using-Python">Statistics</a><a href="https://github.com/mrankitgupta/Spotify-Data-Analysis-using-Python" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/66DaysOfData/c8c040f1c85d921db317152567f331354446286a/statistics-21.svg" alt="Statistics" width="25" height="25"/> </a>
+* <a href="https://github.com/Rahul-kumar9990/Statistics-for-data-analytics-using-python">Statistics</a><a href="https://github.com/Rahul-kumar9990/Statistics-for-data-analytics-using-pythonn" target="_blank" rel="noreferrer"> <img src="https://github.com/Rahul-kumar9990/Statistics-for-data-analytics-using-python.svg" alt="Statistics" width="25" height="25"/> </a>
 
 ##### Python Libraries : 
 * <a href="https://github.com/Rahul-kumar9990/Rahul-using-Pandas">Pandas</a><a href="https://github.com/Rahul-kumar9990/Rahul-using-Pandas" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="25" height="20"/> </a> 
