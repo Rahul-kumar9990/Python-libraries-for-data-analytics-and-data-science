@@ -2,7 +2,7 @@
 
 **I am sharing lessons in various Python Libraries from scratch to intermediate including practice sets which were useful into my journey of Data Science.** 
 
-For more detials, refer: <code>[Data Analyst Roadmap](https://github.com/mrankitgupta/Data-Analyst-Roadmap)</code> :hourglass: & <code>[Python Roadmap](https://github.com/mrankitgupta/Python-Roadmap)</code> 📑
+For more detials, refer: <code>[Data Analyst Roadmap](https://github.com/Rahul-kumar9990/Data-Analyst-Roadmap-for-Beginer)</code> :hourglass: & <code>[Python Roadmap](https://github.com/Rahul-kumar9990/Python-Roadmap)</code> 📑
 
 ### Overview of Python Libraries
 
@@ -16,7 +16,7 @@ Making use of the Python Standard Library is not enough for many developers beca
 
 ## Technologies used ⚙️
 
-* <a href="https://github.com/mrankitgupta/Python-Lessons">Python</a> <a href="https://github.com/mrankitgupta/Python-Lessons" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="20"/> </a>
+* <a href="https://github.com/Rahul-kumar9990/Python-Roadmap">Python</a> <a href="https://github.com/Rahul-kumar9990/Python-Roadmap" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="20"/> </a>
 
 * <a href="https://github.com/mrankitgupta/Spotify-Data-Analysis-using-Python">Statistics</a><a href="https://github.com/mrankitgupta/Spotify-Data-Analysis-using-Python" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/66DaysOfData/c8c040f1c85d921db317152567f331354446286a/statistics-21.svg" alt="Statistics" width="25" height="25"/> </a>
 
