@@ -16,7 +16,6 @@ Making use of the Python Standard Library is not enough for many developers beca
 
 * <a href="https://github.com/Rahul-kumar9990/Python-Roadmap">Python</a> <a href="https://github.com/Rahul-kumar9990/Python-Roadmap" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="20"/> </a>
 
->
 
 
 ## Python Libraries for Data Analysis and Data Science <a href="https://github.com/Rahul-kumar9990/Python-Roadmap" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="25"/> </a>
@@ -31,10 +30,10 @@ Python has a number of libraries, like :
 
 |**Sr.No. 🔢**|**Python Libraries 📕**| **Reference Links :link:**|
 |------|--------------------|---------------------|
-|1| Pandas | [YouTube](https://www.youtube.com/watch?v=WGJJIrtnfpk&t=34338s) |
-|2| NumPy | [TutorialsPoint](https://www.tutorialspoint.com/seaborn/index.htm) |
-|3| Matplotlib | [JavaTpoint](https://www.javatpoint.com/python-seaborn-library) |
-|4| Seaborn |  :white_check_mark: |
+|1| Pandas | [YouTube](https://youtu.be/QUaSmqBeR9w?si=57uCjOWb4GdPLfZ3) |
+|2| NumPy | [Youtube](https://youtu.be/Utgwk0r9Zq4?si=Z5TmZNwTDyRpyUUB) |
+|3| Matplotlib | [Youtube](https://youtu.be/-jTD74eEy2I?si=-2Qs3v36oPNmxDH0) |
+|4| Seaborn | [Youtube](https://youtu.be/-jTD74eEy2I?si=-2Qs3v36oPNmxDH0) |
 |5| Scikit Learn | :white_check_mark:  |
 
 <h2 align="left">Certifications 📜 🎓 </h2>
@@ -43,15 +42,15 @@ Python has a number of libraries, like :
  
 ### YouTube Channels:
 
-[Code With Harry](https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww), 
-[Programming With Harry](https://www.youtube.com/channel/UC7btqG2Ww0_2LwuQxpvo2HQ) 
+[Sheryians AI School](https://youtu.be/-jTD74eEy2I?si=-2Qs3v36oPNmxDH0)
+
 
 
 ### Useful sites to learn Coding in Python:
 
 [Geeks For Geeks](https://www.geeksforgeeks.org/)
 [W3Schools](https://www.w3schools.com/)
-[Kaggle](https://www.kaggle.com/mrankitgupta)  
+ 
 
  
 ### For Certifications:
@@ -61,13 +60,14 @@ Python has a number of libraries, like :
 
 ### For Coding Practice:
 [Leetcode](https://leetcode.com/u/rahulkumar9/)
-[Kaggle](https://www.kaggle.com/mrankitgupta)  
+
 
 
 ## For any queries/doubts 🔗 👇 
 
-- **Email**:
-- **LinkedIn**:
+- **Email**: rahul.gupta37841@gmail.com
+- **LinkedIn**:  www.linkedin.com/in/honestreply9990
+
 
 
 ## **My Social Media Hanldes:**
