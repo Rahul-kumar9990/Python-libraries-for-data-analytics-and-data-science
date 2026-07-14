@@ -122,7 +122,7 @@ Python has a number of libraries, like :
 
 ### Useful sites to learn Coding in Python:
 
-[Geeks For Geeks(https://www.geeksforgeeks.org/)]
+[Geeks For Geeks](https://www.geeksforgeeks.org/)
 [W3Schools](https://www.w3schools.com/)
 [Kaggle](https://www.kaggle.com/mrankitgupta)  
 
