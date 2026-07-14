@@ -1,6 +1,4 @@
-<h1 align="center">Python Libraries for Data Analysis and Data Science Roadmap <a href="https://github.com/Rahul-kumar9990/Python-Roadmap" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="40"/> </a> </h1>
-
-**I am sharing lessons in various Python Libraries from scratch to intermediate including practice sets which were useful into my journey of Data Science.** 
+<h1 align="center">Python Libraries for Data Analysis and Data Science Roadmap <a href="https://github.com/Rahul-kumar9990/Python-libraries-for-data-analytics-and-data-science" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="40"/> </a> </h1>
 
 For more detials, refer: <code>[Data Analyst Roadmap](https://github.com/Rahul-kumar9990/Data-Analyst-Roadmap-for-Beginer)</code> :hourglass: & <code>[Python Roadmap](https://github.com/Rahul-kumar9990/Python-Roadmap)</code> 📑
 
@@ -36,7 +34,7 @@ Python has a number of libraries, like :
 |4| Seaborn |  :white_check_mark: |
 |5| Scikit Learn | :white_check_mark:  |
 
-<h2 align="left">Certifications 📜 🎓 ✔️</h2>
+<h2 align="left">Certifications 📜 🎓 </h2>
 
 - [Data Analysis with Python]() - by IBM
  
