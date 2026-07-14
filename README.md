@@ -108,7 +108,7 @@ Python has a number of libraries, like :
 
 |**Sr.No. 🔢**|**Projects 👨‍💻**| **Reference Links :link:**|
 |------|--------------------|---------------------|
-|**Python Project 1**| RetailPulse-Customer Analytics & Relational SQL Pipeline | [GitHub Project](https://github.com/mrankitgupta/Spotify-Data-Analysis-using-Python) & [Project](https://github.com/Rahul-kumar9990/RetailPulse-Customer-Analytics-Relational-SQL-Pipeline)  |
+|**Python Project 1**| RetailPulse-Customer Analytics & Relational SQL Pipeline | [Project](https://github.com/Rahul-kumar9990/RetailPulse-Customer-Analytics-Relational-SQL-Pipeline)  |
 |**Python Project 2**| MarketLens-Consumer Spending and Engagement Dashboard | [Project](https://github.com/Rahul-kumar9990/MarketLens-Consumer-Spending-and-Engagement-Dashboard) |
 |**Python Project 3**| GeoInsights-Regional Sales Analytics and BI Dashboard | [Project](https://github.com/Rahul-kumar9990/GeoInsights-Regional-Sales-Analytics-and-BI-Dashboard) |
 
