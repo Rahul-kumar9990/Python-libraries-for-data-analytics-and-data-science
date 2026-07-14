@@ -53,7 +53,9 @@ Python has a number of libraries, like :
  
 
  
-### For Certifications:
+<h2 align="left">Certifications 📜 🎓 </h2>
+
+- [Data Analysis with Python]() - by 
 
  
 
