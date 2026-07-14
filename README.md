@@ -1,4 +1,4 @@
-<h1 align="center">Python Libraries for Data Analysis and Data Science Roadmap <a href="https://github.com/mrankitgupta/PythonLessons" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="40"/> </a> </h1>
+<h1 align="center">Python Libraries for Data Analysis and Data Science Roadmap <a href="https://github.com/Rahul-kumar9990/Python-Roadmap" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="40"/> </a> </h1>
 
 **I am sharing lessons in various Python Libraries from scratch to intermediate including practice sets which were useful into my journey of Data Science.** 
 
@@ -21,13 +21,13 @@ Making use of the Python Standard Library is not enough for many developers beca
 * <a href="https://github.com/Rahul-kumar9990/Statistics-for-data-analytics-using-python">Statistics</a><a href="https://github.com/Rahul-kumar9990/Statistics-for-data-analytics-using-pythonn" target="_blank" rel="noreferrer"> <img src="https://github.com/Rahul-kumar9990/Statistics-for-data-analytics-using-python.svg" alt="Statistics" width="25" height="25"/> </a>
 
 ##### Python Libraries : 
-* <a href="https://github.com/Rahul-kumar9990/Rahul-using-Pandas">Pandas</a><a href="https://github.com/Rahul-kumar9990/Rahul-using-Pandas" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="25" height="20"/> </a> 
+* <a href="https://github.com/Rahul-kumar9990/Rahul-using-Pandas">Pandas</a><a href="https://github.com/Rahul-kumar9990/Rahul-using-Pandas" target="_blank" rel="noreferrer"> 
 
-* <a href="https://github.com/Rahul-kumar9990/Rahul-using-Numpy">NumPy</a><a href="https://github.com/Rahul-kumar9990/Rahul-using-Numpy" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/2a582d085b324cff4917325112229027309ecae3/Numpy-logo.svg" alt="numpy" width="25" height="20"/> </a> 
+* <a href="https://github.com/Rahul-kumar9990/Rahul-using-Numpy">NumPy</a><a href="https://github.com/Rahul-kumar9990/Rahul-using-Numpy" target="_blank" rel="noreferrer"> 
 
-* <a href="https://github.com/Rahul-kumar9990/matplotlib-for-visualization">Matplotlib</a><a href="https://github.com/Rahul-kumar9990/matplotlib-for-visualization" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/1331979c3208a15be2c2a6177ffc38ced3d6b434/Matplotlib_icon.svg" alt="matplotlib" width="25" height="20"/> </a> 
+* <a href="https://github.com/Rahul-kumar9990/matplotlib-for-visualization">Matplotlib</a><a href="https://github.com/Rahul-kumar9990/matplotlib-for-visualization" target="_blank" rel="noreferrer">
 
-* <a href="https://seaborn.pydata.org">Seaborn</a><a href="https://seaborn.pydata.org" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="25" height="20"/> </a> 
+* <a href="https://seaborn.pydata.org">Seaborn</a><a href="https://seaborn.pydata.org" target="_blank" rel="noreferrer">
 
 
 <h2 align="left">Certifications 📜 🎓 ✔️</h2>
@@ -113,25 +113,27 @@ Python has a number of libraries, like :
 |**Python Project 3**| GeoInsights-Regional Sales Analytics and BI Dashboard | [Project](https://github.com/Rahul-kumar9990/GeoInsights-Regional-Sales-Analytics-and-BI-Dashboard) |
 
 
-## Useful sites to learn Coding in Python  :link:
 
 ### YouTube Channels:
 
-| [Code With Harry](https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww), [Programming With Harry](https://www.youtube.com/channel/UC7btqG2Ww0_2LwuQxpvo2HQ) 
-|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|
+[Code With Harry](https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww), 
+[Programming With Harry](https://www.youtube.com/channel/UC7btqG2Ww0_2LwuQxpvo2HQ) 
 
-### Other Learning Platforms:
 
-| [Geeks For Geeks](https://www.geeksforgeeks.org/) | [GitHub](https://github.com/mrankitgupta) | [Kaggle](https://www.kaggle.com/mrankitgupta)  | [W3Schools](https://www.w3schools.com/) 
-|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|
+### Useful sites to learn Coding in Python:
+
+[Geeks For Geeks](https://www.geeksforgeeks.org/) 
+[W3Schools](https://www.w3schools.com/)
+[Kaggle](https://www.kaggle.com/mrankitgupta)  
+
  
 ### For Certifications:
 
-[Kaggle](https://www.kaggle.com/learn/certification/mrankitgupta/pandas) | 
+ 
 
 
 ### For Coding Practice:
-[Leetcode](https://leetcode.com/u/rahulkumar9/) | [Kaggle](https://www.kaggle.com/mrankitgupta) | 
+[Leetcode](https://leetcode.com/u/rahulkumar9/) [Kaggle](https://www.kaggle.com/mrankitgupta)  
 
 
 ## For any queries/doubts 🔗 👇 
